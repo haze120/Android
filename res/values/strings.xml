@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATM Empresa</string>
+    <string name="empresa_detalhe">Sobre a empresa</string>
+    <string name="servico_detalhe">Serviços</string>
+    <string name="texto_clientes">Nossos Clientes</string>
+    <string name="padding_padrao">asdasdasd</string>
+</resources>
